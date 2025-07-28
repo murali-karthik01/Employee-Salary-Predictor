@@ -23,8 +23,6 @@ https://employesalarypredictor.streamlit.app/
 - 📊 Predict salaries interactively
 - 🎛️ Customizable inputs with sliders and dropdowns
 - 📈 Displays model performance (MSE, R²)
-- 🌗 Theme toggle: Light / Dark / System
-- 🔥 Visualizes feature importance
 
 ---
 
