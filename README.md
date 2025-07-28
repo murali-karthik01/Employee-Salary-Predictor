@@ -42,4 +42,5 @@ https://employesalarypredictor.streamlit.app/
 ```bash
 git clone https://github.com/your-username/employee-salary-predictor.git
 cd employee-salary-predictor
+pip install -r requirements.txt
 streamlit run "Employee Salary Predictor.py"
