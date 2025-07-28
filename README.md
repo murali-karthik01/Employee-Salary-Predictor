@@ -13,6 +13,7 @@ It uses a machine learning model (Random Forest) trained on real-world employee 
 
 ## 📸 Demo
 <img width="1909" height="1034" alt="image" src="https://github.com/user-attachments/assets/21289907-4b8a-4710-a8c9-aaae80fdf43e" />
+https://employesalarypredictor.streamlit.app/
 
 
 ---
