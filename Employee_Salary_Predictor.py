@@ -26,14 +26,22 @@ def load_data():
 df = load_data()
 
 # Title
-st.markdown(
-    """
-    <h1 style='text-align: center; color: #444444; font-size: 42px;'>
-         Employee Salary Predictor
-    </h1>
-    """,
-    unsafe_allow_html=True
-)
+st.markdown("""
+    <style>
+        .title-container {
+            text-align: center;
+            padding: 1rem 0;
+        }
+        .title-container h1 {
+            color: var(--text-color);
+            font-size: 3em;
+            font-weight: bold;
+        }
+    </style>
+    <div class="title-container">
+        <h1>Employee Salary Predictor</h1>
+    </div>
+""", unsafe_allow_html=True)
  
 
 # Sidebar: User inputs
