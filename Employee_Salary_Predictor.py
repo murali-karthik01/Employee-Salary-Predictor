@@ -28,7 +28,7 @@ df = load_data()
 # Title
 st.markdown(
     """
-    <h1 style='text-align: center; color: #222222; font-size: 42px;'>
+    <h1 style='text-align: center; color: #444444; font-size: 42px;'>
          Employee Salary Predictor
     </h1>
     """,
